@@ -1,5 +1,6 @@
 dmk
 ksndjdnlj
+<<<<<<< HEAD
  ppppp
 
 hoat dong kha tot
